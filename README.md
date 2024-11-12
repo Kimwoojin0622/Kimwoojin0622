@@ -7,7 +7,6 @@
 </div>
 <br>
 <br>
-<br>
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
@@ -21,11 +20,32 @@
 </div>
 <br>
 <br>
-<br>
 
-<h3 align="center" id="studying">📖 Studying 📖</h3>
+<h3 align="center">📖 Studying 📖</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+</div>
+<br>
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</div>
+<br>
+<br>
+
+<h3 align="center">📞 contact 📞</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/jinsixtwotwo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
