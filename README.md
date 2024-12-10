@@ -51,3 +51,9 @@
   <img src="https://img.shields.io/badge/jinsixtwotwo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
