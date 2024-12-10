@@ -36,13 +36,24 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<div align='center'>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,vscode,notion" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  </p>
+</div>
+
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23ffffff.svg?style=for-the-badge&logo=notion&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</div>
+</div> -->
 <br>
 <br>
 
@@ -50,10 +61,4 @@
 <div align="center">
   <img src="https://img.shields.io/badge/jinsixtwotwo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 
